@@ -1,0 +1,16 @@
+using System;
+
+namespace IT213
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string name = "John Smith";
+            string address = "101 N. Main Street";
+            string city = "AnyTown";
+            string state = "TX";
+            int zipCode = "11111";
+        }
+    }
+}
