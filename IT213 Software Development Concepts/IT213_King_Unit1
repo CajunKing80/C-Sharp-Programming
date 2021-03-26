@@ -43,6 +43,7 @@ namespace IT213_KingJeremy_Unit1
             Console.Writeline(string.Format("Your monthly payment is: {0:C}", monthlyPayment));
             
             // End of Program
+            Console.Read();
         }
     }
 }
