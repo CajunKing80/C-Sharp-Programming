@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NOSS\\Source\\Repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit1\\IT213_King_Unit1.csproj",
-      "projectName": "IT213_King_Unit1",
-      "projectPath": "C:\\Users\\NOSS\\Source\\Repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit1\\IT213_King_Unit1.csproj",
+      "projectUniqueName": "C:\\Users\\NOSS\\source\\repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\IT213_King_Unit2.csproj",
+      "projectName": "IT213_King_Unit2",
+      "projectPath": "C:\\Users\\NOSS\\source\\repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\IT213_King_Unit2.csproj",
       "packagesPath": "C:\\Users\\NOSS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NOSS\\Source\\Repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit1\\obj\\",
+      "outputPath": "C:\\Users\\NOSS\\source\\repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NOSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
