@@ -1,0 +1,13 @@
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.csprojAssemblyReference.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.AssemblyInfoInputs.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.AssemblyInfo.cs
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.csproj.CoreCompileInputs.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\bin\Debug\netcoreapp3.1\IT391_King_Unit2.exe
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\bin\Debug\netcoreapp3.1\IT391_King_Unit2.deps.json
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\bin\Debug\netcoreapp3.1\IT391_King_Unit2.runtimeconfig.json
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\bin\Debug\netcoreapp3.1\IT391_King_Unit2.runtimeconfig.dev.json
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\bin\Debug\netcoreapp3.1\IT391_King_Unit2.dll
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\bin\Debug\netcoreapp3.1\IT391_King_Unit2.pdb
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.dll
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.pdb
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C Sharp\IT391 Advanced Software Development\IT391_King_Unit2\obj\Debug\netcoreapp3.1\IT391_King_Unit2.genruntimeconfig.cache
