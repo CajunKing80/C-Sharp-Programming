@@ -8,26 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\NOSS\\.nuget\\packages\\": {}
+    "C:\\Users\\Jeremy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NOSS\\source\\repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\IT213_King_Unit2.csproj",
+      "projectUniqueName": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\IT213_King_Unit2.csproj",
       "projectName": "IT213_King_Unit2",
-      "projectPath": "C:\\Users\\NOSS\\source\\repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\IT213_King_Unit2.csproj",
-      "packagesPath": "C:\\Users\\NOSS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NOSS\\source\\repos\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\obj\\",
+      "projectPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\IT213_King_Unit2.csproj",
+      "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NOSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

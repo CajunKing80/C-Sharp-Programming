@@ -11,3 +11,16 @@ C:\Users\NOSS\source\repos\C-Sharp-Programming\IT213 Software Development Concep
 C:\Users\NOSS\source\repos\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.pdb
 C:\Users\NOSS\source\repos\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.genruntimeconfig.cache
 C:\Users\NOSS\source\repos\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.csprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\bin\Debug\netcoreapp3.1\IT213_King_Unit2.exe
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\bin\Debug\netcoreapp3.1\IT213_King_Unit2.deps.json
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\bin\Debug\netcoreapp3.1\IT213_King_Unit2.runtimeconfig.json
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\bin\Debug\netcoreapp3.1\IT213_King_Unit2.runtimeconfig.dev.json
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\bin\Debug\netcoreapp3.1\IT213_King_Unit2.dll
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\bin\Debug\netcoreapp3.1\IT213_King_Unit2.pdb
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.csprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.AssemblyInfo.cs
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.dll
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.pdb
+C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT213 Software Development Concepts\IT213_King_Unit2\obj\Debug\netcoreapp3.1\IT213_King_Unit2.genruntimeconfig.cache
