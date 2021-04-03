@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IT391_King_Unit2_PartB/1.0.0": {
+        "runtime": {
+          "IT391_King_Unit2_PartB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT391_King_Unit2_PartB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
