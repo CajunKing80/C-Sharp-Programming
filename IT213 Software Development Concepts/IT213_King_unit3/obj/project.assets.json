@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_Unit3\\IT213_King_Unit3.csproj",
-      "projectName": "IT213_King_Unit3",
-      "projectPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_Unit3\\IT213_King_Unit3.csproj",
+      "projectUniqueName": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\IT213_King_unit3.csproj",
+      "projectName": "IT213_King_unit3",
+      "projectPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\IT213_King_unit3.csproj",
       "packagesPath": "C:\\Users\\NOSS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_Unit3\\obj\\",
+      "outputPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NOSS\\AppData\\Roaming\\NuGet\\NuGet.Config",

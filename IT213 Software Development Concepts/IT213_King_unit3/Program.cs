@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace IT213_King_Unit3
+namespace IT213_King_unit3
 {
     class Program
     {
