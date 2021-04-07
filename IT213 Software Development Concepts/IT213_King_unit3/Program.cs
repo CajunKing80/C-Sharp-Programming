@@ -11,7 +11,9 @@ namespace IT213_King_unit3
             //***** Assignment 3 Section 1
             //************************************************************************************
 
-            Console.WriteLine("**** Assignment 3: Section 1 - While Loop to Average Grades ****\n");
+            Console.WriteLine("******************************************************************");
+            Console.WriteLine("***** Assignment 3: Section 1 - While Loop to Average Grades *****");
+            Console.WriteLine("******************************************************************\n");
 
             // Initialize the Variables
 
@@ -35,8 +37,18 @@ namespace IT213_King_unit3
 
             // Display
 
-            Console.WriteLine("The Total For All 10 Grades Is: " + total);
+            Console.WriteLine("\nThe Total For All 10 Grades Is: " + total);
             Console.WriteLine("The Class Average Is: " + average);
+
+            //************************************************************************************
+            //***** Assignment 3 Section 2
+            //************************************************************************************
+
+            Console.WriteLine("\n\n******************************************************************");
+            Console.WriteLine("*********** Assignment 3: Section 2 - Nested For Loops ***********");
+            Console.WriteLine("******************************************************************\n");
+
+
         }
     }
 }
