@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\IT213_King_unit3.csproj": {}
+    "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_unit3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\IT213_King_unit3.csproj": {
+    "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_unit3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\IT213_King_unit3.csproj",
+        "projectUniqueName": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_unit3.csproj",
         "projectName": "IT213_King_unit3",
-        "projectPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\IT213_King_unit3.csproj",
+        "projectPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\IT213_King_unit3.csproj",
         "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_unit3\\obj\\",
+        "outputPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT213 Software Development Concepts\\IT213_King_Unit3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",

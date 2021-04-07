@@ -48,7 +48,6 @@ namespace IT213_King_unit3
             Console.WriteLine("*********** Assignment 3: Section 2 - Nested For Loops ***********");
             Console.WriteLine("******************************************************************\n");
 
-
         }
     }
 }
