@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {}
+    "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {
+    "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
+        "projectUniqueName": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
         "projectName": "IT391_King_Unit3_PartB",
-        "projectPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
-        "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\obj\\",
+        "projectPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
+        "packagesPath": "C:\\Users\\NOSS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NOSS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

@@ -10,3 +10,16 @@ C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT391 Advanced Software Dev
 C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.dll
 C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.pdb
 C:\Users\Jeremy\Documents\GitLab\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.genruntimeconfig.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\bin\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.exe
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\bin\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.deps.json
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\bin\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.runtimeconfig.json
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\bin\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.runtimeconfig.dev.json
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\bin\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.dll
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\bin\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.pdb
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.csprojAssemblyReference.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.AssemblyInfoInputs.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.AssemblyInfo.cs
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.csproj.CoreCompileInputs.cache
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.dll
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.pdb
+C:\Users\NOSS\Desktop\Jeremy\GitLab Repositories\C-Sharp-Programming\IT391 Advanced Software Development\IT391_King_Unit3_PartA\obj\Debug\netcoreapp3.1\IT391_King_Unit3_PartA.genruntimeconfig.cache
