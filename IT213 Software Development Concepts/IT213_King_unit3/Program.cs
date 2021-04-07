@@ -20,6 +20,8 @@ namespace IT213_King_unit3
             int grade = 0;
             int average = 0;
 
+            // Processing
+
 
             while (counter <= 10)
             {
@@ -30,6 +32,8 @@ namespace IT213_King_unit3
             }
 
             average = total / 10;
+
+            // Display
 
             Console.WriteLine("The Total For All 10 Grades Is: " + total);
             Console.WriteLine("The Class Average Is: " + average);
