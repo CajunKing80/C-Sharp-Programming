@@ -35,7 +35,7 @@ namespace IT391_King_Unit3_PartB
             {
                 Console.WriteLine("There is an Error in the Code. Please Check Your Error:");
             }
-            
+
 
             //*********************************************************
             //****Assignment 3, Part B, Section 2
@@ -103,83 +103,90 @@ namespace IT391_King_Unit3_PartB
             new BinaryTree().create();
 
             Console.ReadKey();
-
         }
 
-        static void DisplayList(List<String> lst)
+        public class Node
         {
-            Console.Write("[");
-            for (int i = 0; i < lst.Count(); i++)
+            public Node left;
+            public Node right;
+            public int value;
+            public Node(int value)
+            { this.value = value; }
+        }
+
+        public class BinaryTree
+        {
+            public void create()
             {
-                Console.Write(lst[i]);
-                if (i != lst.Count() - 1)
-                    Console.Write(", ");
+                Node rootnode = new Node(50);
+                insert(rootnode, 26);
+                insert(rootnode, 15);
+                insert(rootnode, 32);
+                insert(rootnode, 78);
+                Console.WriteLine("The contents of the binary tree are: ");
+                traverse(rootnode);
             }
-            Console.Write("]");
-            Console.WriteLine();
-        }
-    }
 
-    public class Node
-    {
-        public Node left;
-        public Node right;
-        public int value;
-        public Node(int value)
-        { this.value = value; }
-    }
-
-    public class BinaryTree
-    {
-        public void create()
-        {
-            Node rootnode = new Node(50);
-            insert(rootnode, 30);
-            insert(rootnode, 45);
-            insert(rootnode, 12);
-            insert(rootnode, 29);
-            Console.WriteLine("The contents of the binary tree are: ");
-            traverse(rootnode);
-        }
-
-        public void traverse(Node rootnode)
-        {
-            printInOrder(rootnode); // printInOrder uses recursion to traverse the tree
-        }
-
-        public void insert(Node node, int value)
-        {
-            if (value < node.value)
+            public void traverse(Node rootnode)
             {
-                if (node.left != null)
+                Console.WriteLine("In Order\n");
+                printInOrder(rootnode);
+                Console.WriteLine("\nPre Order\n");
+                preOrder(rootnode);
+                Console.WriteLine("\nPre Order\n");
+                postOrder(rootnode);
+            }
+
+            public void insert(Node node, int value)
+            {
+                if (value < node.value)
                 {
-                    insert(node.left, value);
+                    if (node.left != null)
+                    {
+                        insert(node.left, value);
+                    }
+                    else
+                    {
+                        node.left = new Node(value);
+                    }
                 }
-                else
+                else if (value > node.value)
                 {
-                    //Console.WriteLine(" Inserted " + value + " to left of node " + node.value);
-                    node.left = new Node(value);
+                    if (node.right != null) { insert(node.right, value); }
+                    else
+                    {
+                        node.right = new Node(value);
+                    }
                 }
             }
-            else if (value > node.value)
+
+            public void printInOrder(Node node)
             {
-                if (node.right != null) { insert(node.right, value); }
-                else
+                if (node != null)
                 {
-                    //Console.WriteLine(" Inserted " + value + " to right of node " + node.value);
-                    node.right = new Node(value);
+                    printInOrder(node.left);
+                    Console.WriteLine(" Traversed " + node.value);
+                    printInOrder(node.right);
+                }
+            }
+            public void preOrder(Node node)
+            {
+                if (node != null)
+                {
+                    Console.WriteLine(" Traversed " + node.value);
+                    preOrder(node.left);
+                    preOrder(node.right);
+                }
+            }
+            public void postOrder(Node node)
+            {
+                if (node != null)
+                {
+                    postOrder(node.left);
+                    postOrder(node.right);
+                    Console.WriteLine(" Traversed " + node.value);
                 }
             }
         }
-
-        public void printInOrder(Node node)
-        {
-            if (node != null)
-            {
-                printInOrder(node.left); Console.WriteLine(" Traversed " + node.value);
-                printInOrder(node.right);
-            }
-        }
-
     }
 }
