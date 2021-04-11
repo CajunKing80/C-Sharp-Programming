@@ -16,110 +16,86 @@ namespace IT391_King_Unit3_PartB
             //*********************************************************
 
             Console.WriteLine();
-            Console.WriteLine("**********Section 1 **********");
+            Console.WriteLine("*********************************************");
+            Console.WriteLine("***************** Section 1 *****************");
+            Console.WriteLine("*********************************************");
             Console.WriteLine();
-            Console.WriteLine("The Contents of the Set Are: ");
             Console.WriteLine();
 
-            String[] mammals = new string[] { "Bear", "Gorilla", "Tiger", "Polar Bear", "Lion", "Monkey" };
 
-            HashSet<String> setMammals = new HashSet<String>();
             try
             {
-                for (int i = 0; i <= mammals.GetUpperBound(0); i++)
-                {
-                    setMammals.Add(mammals[i]);
-                }
-                Console.WriteLine("Original List: ");
-                Console.Write("[");
-                for (int i = 0; i <= mammals.GetUpperBound(0); i++)
-                {
-                    Console.Write(mammals[i]);
-                    if (i == mammals.GetUpperBound(0))
-                    {
-                        Console.Write("]");
-                    }
-                    else
-                    {
-                        Console.Write(", ");
-                    }
-                }
-                Console.WriteLine();
-                Console.WriteLine();
-                Console.WriteLine("Sorted List: ");
-                SortedSet<String> sortedProfessions = new SortedSet<string>(setMammals);
-                Console.Write("[");
-                int j = 0;
-                foreach (string job in sortedProfessions)
-                {
-                    Console.Write(job);
-                    if (j != sortedProfessions.Count() - 1)
-                        Console.Write(", ");
-                    j++;
-                }
-                Console.Write("]");
+                String[] mammals = new string[] { "Bear", "Gorilla", "Tiger", "Polar Bear", "Lion", "Monkey" };
+                var setMammals = new HashSet<String>(mammals);
+                Console.WriteLine(string.Join(",", setMammals));
+                SortedSet<string> sortedMammals = new SortedSet<string>(mammals);
+                Console.WriteLine(string.Join(",", sortedMammals));
             }
-            catch (Exception ex)
+            catch
             {
-                Console.WriteLine("Error: " + ex.Message.ToString());
+                Console.WriteLine("There is an Error in the Code. Please Check Your Error:");
             }
 
 
             //*********************************************************
-            //****Assignment 3, Part A, Section 2
+            //****Assignment 3, Part B, Section 2
             //*********************************************************
+
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("**********Section 2 **********");
+            Console.WriteLine("*********************************************");
+            Console.WriteLine("***************** Section 2 *****************");
+            Console.WriteLine("*********************************************");
+            Console.WriteLine();
             Console.WriteLine();
 
-            List<String> lstbooks = new List<String>();
-            lstbooks.Add("To Kill a Mockingbird");
-            lstbooks.Add("Huckleberry Finn");
-            lstbooks.Add("Pride and Prejudice");
-            lstbooks.Add("Brave New World");
-            lstbooks.Add("Lord of the Flies");
-            lstbooks.Add("Alice in Wonderland");
-            lstbooks.Add("The Old Man and the Sea");
-            lstbooks.Add("Atlas Shrugged");
+            LinkedList<string> myFriends = new LinkedList<string>();
 
-            Console.WriteLine("Original Book List: ");
-            DisplayList(lstbooks);
-            Console.WriteLine();
+            myFriends.AddFirst("Fred 602-299-3300");
+            myFriends.AddLast("Ann 602-555-4949");
+            myFriends.AddLast("Grace 520-544-9898");
+            myFriends.AddLast("Sam 602-343-8723");
+            myFriends.AddLast("Dorothy 520-689-9745");
+            myFriends.AddLast("Mary 520-788-3457");
+            myFriends.AddLast("Susan 520-981-8745");
+            myFriends.AddLast("Bill 520-456-9823");
 
-            lstbooks.Sort(); //sort the list
-
-            Console.WriteLine("Sorted Book List: ");
-            DisplayList(lstbooks);
-            Console.WriteLine();
-
-            lstbooks.RemoveAt(1);//remove second item from list
-            lstbooks.RemoveAt(0); //remove first item from list
-            lstbooks.RemoveAt(lstbooks.Count() - 1);//remove last item from list
-
-            Console.WriteLine("Book List After Deletions: ");
-            DisplayList(lstbooks);
-            Console.WriteLine();
-
-            Console.Write("The number of items in my book list is: " + lstbooks.Count + "\n");
-            Console.WriteLine();
-
-            int index = lstbooks.IndexOf("Brave New World"); //look for this title
-            if (index != -1)
+            Console.WriteLine("The original contents of myFriends is: \n");
+            foreach (var item in myFriends)
             {
-                Console.WriteLine("Brave New World is in the list.");
-            }
-            else
-            {
-                Console.WriteLine("Brave New World is not in the list.");
+                Console.WriteLine(item);
             }
 
+            myFriends.Remove("Bill 520-456-9823");
+
+            myFriends.RemoveFirst();
+            myFriends.RemoveLast();
+
+            myFriends.Find("Mary 520-788-3457").Value = "Mary 520-897-4567";
+
+            Console.WriteLine("\nThe contents of myFriends after the changes is: \n");
+            foreach (var item in myFriends)
+            {
+                Console.WriteLine(item);
+            }
+
+            int numberOfFriends = myFriends.Count;
+
+            Console.WriteLine("\nmyFriends contains " + numberOfFriends + " friends\n");
+
+            Console.WriteLine(myFriends.Contains("Fred 602-299-3300"));
+
+
             //*********************************************************
-            //****Assignment 3, Part A, Section 3
+            //****Assignment 3, Part B, Section 3
             //*********************************************************
+
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("**********Section 3 **********");
+            Console.WriteLine("*********************************************");
+            Console.WriteLine("***************** Section 3 *****************");
+            Console.WriteLine("*********************************************");
+            Console.WriteLine();
             Console.WriteLine();
 
             //creates a new binary tree object which will initialize itself and print its contents
@@ -127,83 +103,90 @@ namespace IT391_King_Unit3_PartB
             new BinaryTree().create();
 
             Console.ReadKey();
-
         }
 
-        static void DisplayList(List<String> lst)
+        public class Node
         {
-            Console.Write("[");
-            for (int i = 0; i < lst.Count(); i++)
+            public Node left;
+            public Node right;
+            public int value;
+            public Node(int value)
+            { this.value = value; }
+        }
+
+        public class BinaryTree
+        {
+            public void create()
             {
-                Console.Write(lst[i]);
-                if (i != lst.Count() - 1)
-                    Console.Write(", ");
+                Node rootnode = new Node(50);
+                insert(rootnode, 26);
+                insert(rootnode, 15);
+                insert(rootnode, 32);
+                insert(rootnode, 78);
+                Console.WriteLine("The contents of the binary tree are: ");
+                traverse(rootnode);
             }
-            Console.Write("]");
-            Console.WriteLine();
-        }
-    }
 
-    public class Node
-    {
-        public Node left;
-        public Node right;
-        public int value;
-        public Node(int value)
-        { this.value = value; }
-    }
-
-    public class BinaryTree
-    {
-        public void create()
-        {
-            Node rootnode = new Node(50);
-            insert(rootnode, 30);
-            insert(rootnode, 45);
-            insert(rootnode, 12);
-            insert(rootnode, 29);
-            Console.WriteLine("The contents of the binary tree are: ");
-            traverse(rootnode);
-        }
-
-        public void traverse(Node rootnode)
-        {
-            printInOrder(rootnode); // printInOrder uses recursion to traverse the tree
-        }
-
-        public void insert(Node node, int value)
-        {
-            if (value < node.value)
+            public void traverse(Node rootnode)
             {
-                if (node.left != null)
+                Console.WriteLine("In Order\n");
+                printInOrder(rootnode);
+                Console.WriteLine("\nPre Order\n");
+                preOrder(rootnode);
+                Console.WriteLine("\nPre Order\n");
+                postOrder(rootnode);
+            }
+
+            public void insert(Node node, int value)
+            {
+                if (value < node.value)
                 {
-                    insert(node.left, value);
+                    if (node.left != null)
+                    {
+                        insert(node.left, value);
+                    }
+                    else
+                    {
+                        node.left = new Node(value);
+                    }
                 }
-                else
+                else if (value > node.value)
                 {
-                    //Console.WriteLine(" Inserted " + value + " to left of node " + node.value);
-                    node.left = new Node(value);
+                    if (node.right != null) { insert(node.right, value); }
+                    else
+                    {
+                        node.right = new Node(value);
+                    }
                 }
             }
-            else if (value > node.value)
+
+            public void printInOrder(Node node)
             {
-                if (node.right != null) { insert(node.right, value); }
-                else
+                if (node != null)
                 {
-                    //Console.WriteLine(" Inserted " + value + " to right of node " + node.value);
-                    node.right = new Node(value);
+                    printInOrder(node.left);
+                    Console.WriteLine(" Traversed " + node.value);
+                    printInOrder(node.right);
+                }
+            }
+            public void preOrder(Node node)
+            {
+                if (node != null)
+                {
+                    Console.WriteLine(" Traversed " + node.value);
+                    preOrder(node.left);
+                    preOrder(node.right);
+                }
+            }
+            public void postOrder(Node node)
+            {
+                if (node != null)
+                {
+                    postOrder(node.left);
+                    postOrder(node.right);
+                    Console.WriteLine(" Traversed " + node.value);
                 }
             }
         }
-
-        public void printInOrder(Node node)
-        {
-            if (node != null)
-            {
-                printInOrder(node.left); Console.WriteLine(" Traversed " + node.value);
-                printInOrder(node.right);
-            }
-        }
-
     }
 }

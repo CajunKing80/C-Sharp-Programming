@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "PQWyhDF+x0GDphDfLdqFCbSq9xQ8P/NNGFVl8SFXfTH0uh5mtjdjTmSPh/8JEOaTdP6hGO/3NFsB+JrwbaE3ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
+=======
+  "dgSpecHash": "eXAIuEuQojZeaf02QUiOx5svixsv5xHKETc2cd9mzW4anNQfP/yK+5ZRPpRTxN3TOg39+vjV01IgtdhRuPtmGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
+>>>>>>> ea5e4a70dca7dc3b65c11ee37e0e75e9e0ca7915
   "expectedPackageFiles": [],
   "logs": []
 }

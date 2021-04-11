@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
         "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jeremy\\Documents\\GitLab\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\obj\\",
+=======
+    "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
+        "projectName": "IT391_King_Unit3_PartB",
+        "projectPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\IT391_King_Unit3_PartB.csproj",
+        "packagesPath": "C:\\Users\\NOSS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NOSS\\Desktop\\Jeremy\\GitLab Repositories\\C-Sharp-Programming\\C-Sharp-Programming\\IT391 Advanced Software Development\\IT391_King_Unit3_PartB\\obj\\",
+>>>>>>> ea5e4a70dca7dc3b65c11ee37e0e75e9e0ca7915
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config",
