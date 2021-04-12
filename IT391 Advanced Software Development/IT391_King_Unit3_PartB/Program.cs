@@ -133,7 +133,7 @@ namespace IT391_King_Unit3_PartB
                 printInOrder(rootnode);
                 Console.WriteLine("\nPre Order\n");
                 preOrder(rootnode);
-                Console.WriteLine("\nPre Order\n");
+                Console.WriteLine("\nPost Order\n");
                 postOrder(rootnode);
             }
 
