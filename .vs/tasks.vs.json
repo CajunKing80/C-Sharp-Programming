@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-IT391_King_Unit8",
+      "appliesTo": "IT391 Advanced Software Development/IT391_King_Unit8/",
+      "type": "launch"
+    }
+  ]
+}
