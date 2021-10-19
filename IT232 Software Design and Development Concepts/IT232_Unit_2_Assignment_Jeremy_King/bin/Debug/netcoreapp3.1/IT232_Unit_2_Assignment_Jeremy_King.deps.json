@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IT232_Unit_2_Assignment_Jeremy_King/1.0.0": {
+        "runtime": {
+          "IT232_Unit_2_Assignment_Jeremy_King.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT232_Unit_2_Assignment_Jeremy_King/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
