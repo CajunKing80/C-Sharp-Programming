@@ -38,9 +38,9 @@ namespace IT213_KingJeremy_Unit1
             Console.WriteLine("Zip Code: " + zipCode);
             
             Console.WriteLine("The number of units taken is: " + intUnitsTaken);
-            Console.Writeline(string.Format("The tuition before discount is {0:C}", tuition));
-            Console.Writeline(string.Format("The tuition after discount is {0:C}", afterDiscount));
-            Console.Writeline(string.Format("Your monthly payment is: {0:C}", monthlyPayment));
+            Console.WriteLine(string.Format("The tuition before discount is {0:C}", tuition));
+            Console.WriteLine(string.Format("The tuition after discount is {0:C}", afterDiscount));
+            Console.WriteLine(string.Format("Your monthly payment is: {0:C}", monthlyPayment));
             
             // End of Program
             Console.Read();
