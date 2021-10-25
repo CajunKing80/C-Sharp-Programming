@@ -1,9 +1,0 @@
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C-Sharp-Programming.csproj.AssemblyReference.cache
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\IT232_Unit_2_Assignment_Jeremy_King.Form1.resources
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\IT391_King_Unit6_PartB.Form1.resources
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C_Sharp_Programming.IT391_Advanced_Software_Development.IT391_King_Unit6_PartB.Properties.Resources.resources
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C-Sharp-Programming.csproj.GenerateResource.cache
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C-Sharp-Programming.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C-Sharp-Programming.AssemblyInfoInputs.cache
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C-Sharp-Programming.AssemblyInfo.cs
-C:\Users\Jeremy King\Documents\Git Repositories\C-Sharp-Programming\obj\Debug\net5.0\C-Sharp-Programming.csproj.CoreCompileInputs.cache
