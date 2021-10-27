@@ -1,0 +1,7 @@
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\bin\Debug\IT232_Unit_3_Assignment_Jeremy_King.exe.config
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\bin\Debug\IT232_Unit_3_Assignment_Jeremy_King.exe
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\bin\Debug\IT232_Unit_3_Assignment_Jeremy_King.pdb
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\obj\Debug\IT232_Unit_3_Assignment_Jeremy_King.csproj.AssemblyReference.cache
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\obj\Debug\IT232_Unit_3_Assignment_Jeremy_King.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\obj\Debug\IT232_Unit_3_Assignment_Jeremy_King.exe
+C:\Users\Jeremy King\source\repos\IT232_Unit_3_Assignment_Jeremy_King\obj\Debug\IT232_Unit_3_Assignment_Jeremy_King.pdb

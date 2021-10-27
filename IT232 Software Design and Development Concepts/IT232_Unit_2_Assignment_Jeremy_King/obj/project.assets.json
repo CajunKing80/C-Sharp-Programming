@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeremy King\\source\\repos\\IT232_Unit_2_Assignment_Jeremy_King\\IT232_Unit_2_Assignment_Jeremy_King.csproj",
+      "projectUniqueName": "C:\\Users\\Jeremy King\\Source\\Repos\\C-Sharp-Programming\\IT232 Software Design and Development Concepts\\IT232_Unit_2_Assignment_Jeremy_King\\IT232_Unit_2_Assignment_Jeremy_King.csproj",
       "projectName": "IT232_Unit_2_Assignment_Jeremy_King",
-      "projectPath": "C:\\Users\\Jeremy King\\source\\repos\\IT232_Unit_2_Assignment_Jeremy_King\\IT232_Unit_2_Assignment_Jeremy_King.csproj",
+      "projectPath": "C:\\Users\\Jeremy King\\Source\\Repos\\C-Sharp-Programming\\IT232 Software Design and Development Concepts\\IT232_Unit_2_Assignment_Jeremy_King\\IT232_Unit_2_Assignment_Jeremy_King.csproj",
       "packagesPath": "C:\\Users\\Jeremy King\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeremy King\\source\\repos\\IT232_Unit_2_Assignment_Jeremy_King\\obj\\",
+      "outputPath": "C:\\Users\\Jeremy King\\Source\\Repos\\C-Sharp-Programming\\IT232 Software Design and Development Concepts\\IT232_Unit_2_Assignment_Jeremy_King\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jeremy King\\AppData\\Roaming\\NuGet\\NuGet.Config",
