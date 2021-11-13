@@ -1,0 +1,44 @@
+Using System;
+Using System.IO;
+Using System.Collections.Generic;
+Using System.Linq;
+Using System.Text;
+Using System.Threading.Tasks;
+Using System.Collections;
+
+namespace IT_232_Unit_5_Assignment
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        // *******************************
+        // **** Assignment 5 Section 1 ***
+        // *******************************
+
+        ArrayList produceList = new ArrayList();
+
+        produceList.Add("bananas 0.59")
+        produceList.Add("grapes 2.99")
+        produceList.Add("apples 1.49")
+        produceList.Add("pears 1.39")
+        produceList.Add("lettuce 0.99")
+        produceList.Add("onions 0.79")
+        produceList.Add("potatoes 0.59")
+        produceList.Add("peaches 1.59")
+
+        using (SteamWriter writeFile = new SteamWriter(@"ProducePrice.txt"))
+        {
+            for (int i = 0; i < produceList.Count; i++)
+            {
+                writeFile.WriteLine(produceList[i]);
+            }
+            WriteFile.Close();
+        }
+
+        Console.WriteLine("There are " + FileLineCount("ProducePrice.txt") + " products in the file.");
+
+        // *******************************
+        // **** Assignment 5 Section 2***
+        // *******************************
