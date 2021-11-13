@@ -58,3 +58,39 @@ namespace IT_232_Unit_5_Assignment
         // *******************************
         // **** Assignment 5 Section 3 ***
         // *******************************
+
+        ArrayList poducePrices = new ArrayList();
+        int lineCounter = 1);
+        string line;
+
+        using (SteamReader readFile = new SteamReader(@"ProducePrice.txt", true))
+        {
+            while ((line = readFile.ReadLine()) != null)
+            {
+                producePrices.Add(line);
+                Console.WriteLine(lineCounter + ". " + line);
+                lineCounter++;
+            }
+            readFile.Close();
+        }
+
+        Console.WriteLine();
+        Console.WriteLine("There are " + producePrice.Count + " products in the producePrices ArrayList");
+
+        Console.ReadLine();
+
+    }
+ 
+    static int FileLineCount(string filename)
+    {
+        while ((readFile.ReadLine()) != null)
+        {
+            lineCounter++;
+        }
+        readFile.Close();
+    }
+    return lineCounter;
+}
+
+        
+
