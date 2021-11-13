@@ -42,3 +42,19 @@ namespace IT_232_Unit_5_Assignment
         // *******************************
         // **** Assignment 5 Section 2***
         // *******************************
+
+        using (SteamWriter appendFile = new SteamWriter(@"ProducePrice.txt", true))
+        {
+           appendFile.WriteLine("peppers 0.99");
+           appendFile.WriteLine("celery 1.29");
+           appendFile.WriteLine("cabbage 0.79");
+           appendFile.WriteLine("tomatoes 1.19");
+           appendFile.Close();
+        }
+
+        Console.WriteLine("There are " + FileLineCount("ProducePrice.txt") + " products in the file.");
+        Console.WriteLine();
+
+        // *******************************
+        // **** Assignment 5 Section 3 ***
+        // *******************************
