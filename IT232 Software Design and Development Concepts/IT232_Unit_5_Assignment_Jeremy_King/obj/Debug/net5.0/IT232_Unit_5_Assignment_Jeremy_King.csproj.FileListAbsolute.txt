@@ -1,0 +1,16 @@
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.exe
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.deps.json
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.runtimeconfig.json
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.dll
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\ref\IT232_Unit_5_Assignment_Jeremy_King.dll
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\bin\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.pdb
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.dll
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\ref\IT232_Unit_5_Assignment_Jeremy_King.dll
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.pdb
+C:\Users\Jeremy\source\repos\IT232_Unit_5_Assignment_Jeremy_King\obj\Debug\net5.0\IT232_Unit_5_Assignment_Jeremy_King.genruntimeconfig.cache

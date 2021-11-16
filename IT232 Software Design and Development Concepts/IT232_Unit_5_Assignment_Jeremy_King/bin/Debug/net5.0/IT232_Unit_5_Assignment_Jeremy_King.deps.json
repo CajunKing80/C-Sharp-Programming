@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IT232_Unit_5_Assignment_Jeremy_King/1.0.0": {
+        "runtime": {
+          "IT232_Unit_5_Assignment_Jeremy_King.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT232_Unit_5_Assignment_Jeremy_King/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
