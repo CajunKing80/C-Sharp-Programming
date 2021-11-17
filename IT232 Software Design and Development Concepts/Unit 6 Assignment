@@ -1,0 +1,47 @@
+using System;
+using System.IO;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections;
+
+namespace IT_232_Unit_6_Assignment
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            // ********************************
+            // **** Assignment 6 Section 1 ****
+            // ********************************
+
+            Console.WriteLine("Assignment 6 - Asserts and Try/Catch.");
+            Console.WriteLine();
+
+            // ********************************
+            // **** Assignment 6 Section 2 ****
+            // ********************************
+
+            Console.WriteLine("Assignment 6 - Asserts and Try/Catch.");
+            Console.WriteLine();
+
+            // ********************************
+            // **** Assignment 6 Section 3 ****
+            // ********************************
+
+            Console.WriteLine("Assignment 6 - Asserts and Try/Catch.");
+            Console.WriteLine();
+           
+            // ********************************
+            // **** Assignment 6 Section 4 ****
+            // ********************************
+
+            Console.WriteLine("Assignment 6 - Asserts and Try/Catch.");
+            Console.WriteLine();
+            Console.ReadLine();
+
+        }
+    }
+}
